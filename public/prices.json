@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 25,
+        "features": [
+            "Off-peak access",
+            "Limited equipment",
+            "No fitness classes"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 40,
+        "features": [
+            "Peak & off-peak access",
+            "Full equipment",
+            "Limited classes"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 60,
+        "features": [
+            "Peak & off-peak access",
+            "Full equipment",
+            "Unlimited classes"
+        ]
+    }
+]
